@@ -1,4 +1,5 @@
 body {
+	font-weight: bold;
     background-color: Black;
     color: White;
     background-image: -webkit-linear-gradient(black, #1000c3);
@@ -48,7 +49,7 @@ img {
     border-width: 2px;
 	border-style: none solid none solid;
 	border-color: #66FF66;
-    padding: 1em 56px 1em 56px;
+    padding: 1em 68px 1em 68px;
 	background-color: #98FF98;
     color: black;
     margin: -4px;
