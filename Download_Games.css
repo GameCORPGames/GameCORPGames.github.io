@@ -4,7 +4,7 @@ body {
     color: White;
     background-image: -webkit-linear-gradient(black, #1000c3);
     text-align: center;
-	font-family: "DK Sugary Pancake", "Arial Narrow", sans-serif;
+	font-family: "Arial Narrow", sans-serif;
 }
 
 td, th {
@@ -34,18 +34,15 @@ a {
 	color: Lime;
 }
 
-img {
-    height: 2.5em;
-	position: relative;
-	top: 0.75em;
-}
-
 .header {
+	padding: 5px 10px 5px 10px;
+	margin: -10px -20px -10px -20px;
     position: fixed;
     background-color: #98FF98;
 }
 
 #header-links {
+	font-weight: bold;
     border-width: 2px;
 	border-style: none solid none solid;
 	border-color: #66FF66;
@@ -54,7 +51,13 @@ img {
     color: black;
     margin: -4px;
 	position: relative;
-	right: 5px;
-	bottom: 15px;
+	bottom: 11px;
+	left: 6px;
 
+}
+
+img {
+    height: 2.5em;
+	position: relative;
+	top: 0.75em;
 }
