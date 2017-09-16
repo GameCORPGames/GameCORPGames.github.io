@@ -1,0 +1,26 @@
+NEWS on the "UPDATES" Tab
+
+The gold fever is back, with some shovels and weird machines, the Mustachios are trying to dig through the earth to find as much gold as they can! Help them to achieve it!
+
+Denomination Legend :
+K : Kilo = 1000 
+M : Million = 1000 K
+B : Billion = 1000 M 
+T : Trillion = 1000 B 
+R : Quadriliion = 1000 T 
+Q : Quintillion = 1000 R 
+X : Sextiliion = 1000 Q 
+S : Septillion = 1000 X 
+C : Octillion = 1000 S 
+N : Nonicillion = 1000 C 
+D : Decillion = 1000 N 
+U : Undecillion = 1000 D 
+I : Duidecillion = 1000 U 
+Tr : Tredecillion = 1000 I 
+Qu : Quattuordecillion = 1000 Tr 
+Qn : Quindecillion = 1000 Qu 
+Sx : Sexdeciliion = 1000 Qn 
+Sp : Septendecillion = 1000 Sx 
+Ct : Octodecillion = 1000 Sp 
+Nv : Novemdecillion = 1000 Ct 
+Vg : Vigintiliion = 1000 Nv 
