@@ -1,0 +1,7 @@
+Space: restart level
+Escape: end level
+W: accelerate
+S: brake
+A: tilt left
+D: tilt right
+Arrow keys: change color (there is a reminder on the hud)
