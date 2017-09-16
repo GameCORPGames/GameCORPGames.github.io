@@ -1,0 +1,9 @@
+Build towers to attack incoming enemies and stop them from getting past your defenses.
+Earn gold by defeating enemies and use it to build more towers.
+
+[1] - Select/Cancel Rain of Fire spell.
+[2] - Select/Cancel Reinforcements spell.
+[3] - Select/Cancel Lightning Bolt spell (Premium content only)
+[4] - Activate/Cancel Sunray Tower.
+[SPACE] - Cancel any selected spell/power/rally point.
+[P] - Pauses the game.
