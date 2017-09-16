@@ -1,0 +1,24 @@
+**Please install <a href="http://get.adobe.com/flashplayer/">Flash Player 10.2</a>, this seems to be resolving some issues for people.  Thank you! **
+
+Latest version is v1.09.  Some of these fixes may require a NewGame+ or NewGame to have the game fixed (saved game may retain bugs)
+
+<b>Version 1.09</b>
+This version fixes the following:
+•  Umbrella quest fixed (when loaded from save)
+•  Trophy quest fixed
+•  Map fixes for some browsers
+•  Elephant names hidden on loaded Save Game
+•  Area 12 walls climbable
+•  Area 25 walls climbable
+•  Area 31 jumping challenges fixed
+•  Old gun trails removed on new area
+•  Area 42 ghost block patched
+
+<b>Version 1.08</b>
+This version fixes should resolve most world map loading for users.
+
+The fight is on!  Wooly has taken your precious bowler cap and now you are on a romp to go get it back!  Explore the freeform world of 45 various areas in this RPG-Shooter hybrid.  Complete sidequests to get power-ups, extra firepower, and experience!   Navigate the ridiculous Level Up tree to become the most powerful elephant in the universe.
+
+Art by Jimp!
+Programming by John!
+Produced by Armor Games
