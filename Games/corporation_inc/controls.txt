@@ -1,0 +1,2 @@
+WASD / Arrow Keys to move camera
+Mouse to build/interact
