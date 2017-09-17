@@ -11,4 +11,4 @@ $(document).ready(function(){
         $(this).fadeTo("slow", 1);
     });
 });
-alert("padding", pHeader);
+alert(pHeader);
