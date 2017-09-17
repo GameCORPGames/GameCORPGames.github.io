@@ -1,0 +1,142 @@
+#fav {
+    padding: 0.7em 1.3em 0.7em 1.3em;
+    border-radius: 7%;
+    background-image: -webkit-linear-gradient(#80FF80, #3F2EFF);
+    color: black;
+}
+
+td, th {
+	padding: 19px 80px;
+	text-align: center;
+}
+
+.header {
+	padding: 5px 10px 5px 10px;
+	margin: -10px -20px -10px -20px;
+    position: fixed;
+    background-color: #98FF98;
+}
+
+#header-links {
+	font-weight: bold;
+    border-width: 2px;
+	border-style: none solid none solid;
+	border-color: #66FF66;
+    padding: 1em 68px 1em 68px;
+	background-color: #98FF98;
+    color: black;
+    margin: -4px;
+	position: relative;
+	bottom: 11px;
+	left: 6px;
+
+}
+
+img {
+    height: 2.5em;
+	position: relative;
+	top: 0.75em;
+}
+
+#fav-intro {
+    text-align: center;
+	font-family: "Agency FB";
+	font-size: 20px;
+}
+
+.opening {
+    font-family: "Agency FB";
+    font-size: 1.5em;
+    text-align: center;
+}
+
+#bold {
+    font-weight: 700;
+}
+
+#title {
+    text-align: center;
+}
+
+body {
+    background-color: Black;
+    color: White;
+    background-color: #1000c3;
+	font-family: "DK Sugary Pancake", "Arial Narrow", sans-serif;
+}
+
+a {
+	color: Lime;
+}
+
+#dg {
+    color: #0A0A0A;
+    font-weight: bold;
+	text-align: center;
+
+}
+
+#welcome {
+    font-family: "Agency FB";
+    font-size: 2em;
+    color: #66FF66;
+	text-align: center;
+}
+
+.lists {
+    text-align: left;
+    font-style: italic;
+    font-family: "Comic Sans MS";
+}
+
+#games {
+    color: black;
+	text-align: center;
+	background: url(images/Custom/duo-logo) no-repeat center center;
+}
+
+#og {
+    color: #ffffff;
+    font-weight: bold;
+	text-align: center;
+}
+
+#fav-image1 {
+    text-align: center;
+    padding: 40px 40px;
+    background: url("Games/flight/thumb.jpg") no-repeat center center;
+    background-size: cover;
+    font-size: 0;
+	border-radius: 10%;
+}
+
+#fav-image2 {
+    text-align: center;
+    padding: 40px 40px;
+    background: url("Games/kingdom_rush/thumb.png") no-repeat center center;
+    background-size: cover;
+    font-size: 0;
+    border-radius: 10%;
+}
+
+#fav-image3 {
+    text-align: center;
+    padding: 40px 40px;
+    background: url("Games/corporation_inc/thumb.jpg") no-repeat center center;
+    background-size: cover;
+    font-size: 0;
+	border-radius: 10%;
+}
+
+#fav-image4 {
+    text-align: center;
+    padding: 40px 40px;
+    background: url("Games/elephant_quest/thumb.png") no-repeat center center;
+    background-size: cover;
+    font-size: 0;
+	border-radius: 10%;
+}
+
+.title {
+    text-align: center;
+}

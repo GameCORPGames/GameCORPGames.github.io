@@ -1,0 +1,4 @@
+Arrow Keys to move and use powers
+Or WASD to move and use powers
+
+Space bar to possess items.

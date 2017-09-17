@@ -1,0 +1,11 @@
+Build towers to attack incoming enemies and stop them from getting past your defenses.
+Earn gold by defeating enemies and use it to build more towers.
+
+[1] - Select/Cancel Rain of Fire spell.
+[2] - Select/Cancel Reinforcements spell.
+[3] - Select/Cancel Hero
+[4] - Select/Cancel Extra Hero
+[SPACE] - Cancel any selected spell/power/rally point.
+[P] - Pauses the game.
+
+How to Save: The game automatically saves on the Map.

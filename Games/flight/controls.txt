@@ -1,0 +1,7 @@
+Use the mouse to pick up and throw the plane.
+
+P: Pause.
+Arrow Keys / A and D: Turn the plane.
+Spacebar: Use the Engine.
+R: Activate "Rainbow Stars."
+(Some of these abilities require upgrades)
