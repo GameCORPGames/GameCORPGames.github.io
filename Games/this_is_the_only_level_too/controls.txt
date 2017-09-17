@@ -1,1 +1,0 @@
-Arrow Keys or WASD to move... for the time being.

@@ -1,1 +1,0 @@
-Arrow Keys/WASD to move, mouse to shoot
