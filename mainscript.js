@@ -1,7 +1,7 @@
 var wHeight = $(window).height();
 var wWidth = $(window).width();
 var pWide = wWidth / 20;
-var pHeader = "1em " + pWide + " 1em " + pWide;
+var pHeader = "1em " + pWide + "px" + " 1em " + pWide + "px";
 $(document).ready(function(){
     $("#header-links").css("padding", pHeader);
     $("a").mouseenter(function(){
@@ -11,4 +11,4 @@ $(document).ready(function(){
         $(this).fadeTo("slow", 1);
     });
 });
-alert(pHeader);
+alert("padding: " + pHeader + ";");
