@@ -1,0 +1,3 @@
+WASD  or Arrow keys to move.
+Mouse to aim, left-click to shoot.
+Escape to pause.
