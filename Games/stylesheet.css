@@ -1,11 +1,12 @@
+
 .header {
+	padding: 5px 10px 5px 10px;
+	margin: -10px -20px -10px -20px;
     position: fixed;
     background-color: #98FF98;
 }
 
 #header-links {
-	font-weight: bold;
-	
     border-width: 2px;
 	border-style: none solid none solid;
 	border-color: #66FF66;
@@ -14,8 +15,9 @@
     color: black;
     margin: -4px;
 	position: relative;
-	right: 5px;
-	bottom: 15px;
+	bottom: 11px;
+	left: 6px;
+
 }
 
 img {
@@ -23,8 +25,6 @@ img {
 	position: relative;
 	top: 0.75em;
 }
-
-
 
 body {
 	text-align: center;
