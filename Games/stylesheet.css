@@ -6,6 +6,11 @@
     background-color: #98FF98;
 }
 
+@font-face {
+    font-family: "Arial Narrow";
+    src: url(http://www.gamecorpgames.net/Arialn.ttf);
+}
+
 #header-links {
     border-width: 2px;
 	border-style: none solid none solid;
