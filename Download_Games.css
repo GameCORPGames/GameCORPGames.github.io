@@ -7,6 +7,11 @@ body {
 	font-family: "Arial Narrow", sans-serif;
 }
 
+@font-face {
+    font-family: "Arial Narrow";
+    src: url(http://www.gamecorpgames.net/Arialn.ttf);
+}
+
 td, th {
     color: white;
     text-align: center;
