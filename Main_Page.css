@@ -5,6 +5,11 @@
     color: black;
 }
 
+@font-face {
+    font-family: "Arial Narrow";
+    src: url(http://www.gamecorpgames.net/Arialn.ttf);
+}
+
 td, th {
 	padding: 19px 80px;
 	text-align: center;
