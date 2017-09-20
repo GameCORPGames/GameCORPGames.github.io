@@ -12,6 +12,7 @@
 }
 
 #header-links {
+	font-weight: bold;
     border-width: 2px;
 	border-style: none solid none solid;
 	border-color: #66FF66;
