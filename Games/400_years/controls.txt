@@ -1,0 +1,1 @@
+arrows or A/D to move, E to perform actions, SPACE to wait
