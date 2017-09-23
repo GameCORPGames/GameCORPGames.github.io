@@ -1,0 +1,12 @@
+Sim Inc. Priorities from major to minor:
+[GameCORP] RESPONSIVE DESIGN!
+[GameCORP] Adding tags to each game page to make CSE work
+[GameCORP] MORE GAMES!
+[GameCORP] @font-face on all css
+[GameCORP] Making the images on Online_Games.html links
+[GameCORP] Adding tags in the head to make the singular pages google-able
+[All] Spreading the word
+[All] [Sim Inc.] Profit
+[Sim Inc.] More Websites (specifically wastemytime.net then Sim Inc. Home Page)
+Sim Inc. Logo
+WasteMyTime.net Logo
