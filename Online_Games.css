@@ -11,7 +11,7 @@ body {
     src: url(http://www.gamecorpgames.net/Arialn.ttf);
 }
 
-gcse:search {
+#gcse:search {
     margin: 0;
     padding: 0;
 }
