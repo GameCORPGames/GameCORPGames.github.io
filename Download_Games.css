@@ -17,8 +17,8 @@ body {
 td, th {
     color: white;
     text-align: center;
-    border: 2px solid black;
-    padding: 40px 80px;
+    border: 0.125em solid black;
+    padding: 2.5em 5em;
 }
 
 #td1 {
