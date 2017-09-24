@@ -16,9 +16,12 @@ body {
     src("http://www.gamecorpgames.net/arialn.ttf")
 }
 
-#gcse:search {
-    margin: 0;
-    padding: 0;
+#top {
+    overflow-y: hidden;
+}
+
+#topcr {
+    margin-top: -14px;
 }
 
 td, th {
