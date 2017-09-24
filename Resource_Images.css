@@ -10,6 +10,11 @@ td, th {
 	padding: 20px 30px;
 }
 
+@font-face{
+    font-family: "Arial Narrow"
+    src("http://www.gamecorpgames.net/arialn.ttf")
+}
+
 th {
 	background-color: #98ff98;
 }
