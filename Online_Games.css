@@ -55,25 +55,30 @@ a {
 }
 
 .header {
-	padding: 5px 10px 5px 10px;
-	margin: -10px -20px -10px -20px;
+	padding: 0.313em 0.625em 0.313em 0.625em;
+	margin: -0.625em -1.250em -0.625em -1.250em;
     position: fixed;
     background-color: #98FF98;
 }
 
 #header-links {
-	font-weight: bold;
     border-width: 2px;
 	border-style: none solid none solid;
 	border-color: #66FF66;
-    padding: 1em 68px 1em 68px;
+    padding: 1em 4.313em 1em 4.313em;
 	background-color: #98FF98;
     color: black;
-    margin: -4px;
+    margin: -0.250px;
 	position: relative;
-	bottom: 11px;
-	left: 6px;
+	bottom: 0.688em;
+	left: 0.375em;
 
+}
+
+img {
+    height: 2.5em;
+	position: relative;
+	top: 0.75em;
 }
 
 img {
