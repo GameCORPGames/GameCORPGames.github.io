@@ -11,6 +11,11 @@ body {
     src: url(http://www.gamecorpgames.net/Arialn.ttf);
 }
 
+gcse:search {
+    margin: 0;
+    padding: 0;
+}
+
 td, th {
     color: white;
     text-align: center;
