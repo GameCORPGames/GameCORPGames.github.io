@@ -21,8 +21,8 @@ body {
 }
 
 .header {
-	padding: 5px 10px 5px 10px;
-	margin: -10px -20px -10px -20px;
+	padding: 0.313em 0.625em 0.313em 0.625em;
+	margin: -0.625em -1.250em -0.625em -1.250em;
     position: fixed;
     background-color: #98FF98;
 }
