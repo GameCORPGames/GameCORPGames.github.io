@@ -12,6 +12,11 @@ body {
     src: url(http://www.gamecorpgames.net/Arialn.ttf);
 }
 
+@font-face{
+    font-family: "Arial Narrow"
+    src("http://www.gamecorpgames.net/arialn.ttf")
+}
+
 td, th {
     color: white;
     text-align: center;
