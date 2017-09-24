@@ -11,6 +11,11 @@
     src: url(http://www.gamecorpgames.net/Arialn.ttf);
 }
 
+@font-face{
+    font-family: "Arial Narrow"
+    src("http://www.gamecorpgames.net/arialn.ttf")
+}
+
 #header-links {
 	font-weight: bold;
     border-width: 2px;
