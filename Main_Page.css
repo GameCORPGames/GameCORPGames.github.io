@@ -10,6 +10,11 @@
     src: url(http://www.gamecorpgames.net/Arialn.ttf);
 }
 
+@font-face{
+    font-family: "Arial Narrow"
+    src("http://www.gamecorpgames.net/arialn.ttf")
+}
+
 td, th {
 	padding: 19px 80px;
 	text-align: center;
