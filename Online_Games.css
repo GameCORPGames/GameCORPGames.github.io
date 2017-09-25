@@ -16,12 +16,11 @@ body {
     src("http://www.gamecorpgames.net/arialn.ttf")
 }
 
-#top {
-    overflow-y: hidden;
-}
-
-#topcr {
-    margin-top: -14px;
+th {
+    color: white;
+    text-align: center;
+    border: 2px solid black;
+    padding: 40px 80px;
 }
 
 #td1 {
