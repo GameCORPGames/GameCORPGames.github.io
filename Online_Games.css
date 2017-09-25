@@ -24,19 +24,19 @@ body {
     margin-top: -14px;
 }
 
-td, th {
+#td1 {
     color: white;
     text-align: center;
     border: 2px solid black;
     padding: 40px 80px;
-	
-}
-
-#td1 {
     background-image: -webkit-linear-gradient(#98FF98, #1000c3);
 }
 
 #td2 {
+    color: white;
+    text-align: center;
+    border: 2px solid black;
+    padding: 40px 80px;
     background-image: -webkit-linear-gradient(#1000c3, #98FF98);
 }
 
